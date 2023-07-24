@@ -9,7 +9,7 @@ https://public.tableau.com/views/Impactofmusicgenretomentalhealth/Musicdashboard
 ## Purpose of the dashboard
 We want to understand which music genre have the impact of mental health with respect to different disease, and the platform they are usually use.
 
-Filter the specific mental health conditions, favourite genre at the right hand side.
+You can always filter the specific mental health conditions, favourite genre at the right hand side.
 
 ## Genre rank in each platform
 You can hover to the bar chart to see the top 5 music genre in each of the platform under each of the mental health state.
@@ -20,4 +20,9 @@ By hovering to the tree map, you can see which genre of music the patient listen
 
 ![mental_health_music](https://github.com/davidchan0629/mental_health_music/blob/main/state_changes_hover.png)
 ![mental_health_music](https://github.com/davidchan0629/mental_health_music/blob/main/state_changes_click.png)
+
+## Music genre
+Clicking the bar chart in the lower right bottom can investigate the specific genre. You can also understand the listening preference in respect to the platform
+
+![mental_health_music](https://github.com/davidchan0629/mental_health_music/blob/main/genre_click.png)
 
