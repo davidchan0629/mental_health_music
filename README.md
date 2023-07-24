@@ -13,7 +13,7 @@ Filter the specific mental health conditions, favourite genre at the right hand 
 
 ## Genre rank in each platform
 You can hover to the bar chart to see the top 5 music genre in each of the platform under each of the mental health state.
-![meantal_health_music](https://github.com/davidchan0629/mental_health_music/blob/main/platform_hover.jpg)
+![meantal_health_music](https://github.com/davidchan0629/mental_health_music/blob/main/platform_hover.png)
 
 ## Mental health state changes related to genre
 By hovering to the tree map, you can see which genre of music the patient listened most from the scale of 1 to 4, with 1 least and 4 the most. You can also click to select the mental health changes state to see the respective KPI in the top of the dashboard.
